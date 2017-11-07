@@ -1,3 +1,4 @@
 monday
 tuesday-github
 wednesday-github
+thursday-github
