@@ -8,4 +8,4 @@ thursday-github
 
 saturday
 
-sunday - github
+sunday - github and local
