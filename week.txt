@@ -9,3 +9,6 @@ thursday-github
 saturday
 
 sunday - github and local
+
+
+today 7/11
