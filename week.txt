@@ -6,3 +6,4 @@ friday
 wednesday-github
 thursday-github
 
+saturday
